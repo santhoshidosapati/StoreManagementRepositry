@@ -30,6 +30,7 @@
     })
     $("#btnSales").click(function () {
 
+
     })
     $("#btnItems").click(function () {
         $(".Dialog").dialog("close");
