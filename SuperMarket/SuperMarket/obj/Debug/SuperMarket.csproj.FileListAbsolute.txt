@@ -11,3 +11,10 @@ C:\Users\trainee\Documents\GitHub\Project\StoreManagementRepositry\SuperMarket\S
 C:\Users\trainee\Documents\GitHub\Project\StoreManagementRepositry\SuperMarket\SuperMarket\bin\SQLConnector.dll
 C:\Users\trainee\Documents\GitHub\Project\StoreManagementRepositry\SuperMarket\SuperMarket\bin\SQLConnector.pdb
 C:\Users\trainee\Documents\GitHub\Project\StoreManagementRepositry\SuperMarket\SuperMarket\obj\Debug\SuperMarket.dll
+C:\Users\manoj\Documents\GitHub\StoreManagementRepositry\SuperMarket\SuperMarket\obj\Debug\SuperMarket.csprojResolveAssemblyReference.cache
+C:\Users\manoj\Documents\GitHub\StoreManagementRepositry\SuperMarket\SuperMarket\obj\Debug\SuperMarket.pdb
+C:\Users\manoj\Documents\GitHub\StoreManagementRepositry\SuperMarket\SuperMarket\bin\SuperMarket.dll
+C:\Users\manoj\Documents\GitHub\StoreManagementRepositry\SuperMarket\SuperMarket\bin\SuperMarket.pdb
+C:\Users\manoj\Documents\GitHub\StoreManagementRepositry\SuperMarket\SuperMarket\bin\SQLConnector.dll
+C:\Users\manoj\Documents\GitHub\StoreManagementRepositry\SuperMarket\SuperMarket\bin\SQLConnector.pdb
+C:\Users\manoj\Documents\GitHub\StoreManagementRepositry\SuperMarket\SuperMarket\obj\Debug\SuperMarket.dll

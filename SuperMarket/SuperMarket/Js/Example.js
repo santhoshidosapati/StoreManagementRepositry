@@ -1,5 +1,5 @@
 ﻿$(document).ready(function () {
-    
+
     $(".button").button();
 
     $(".chosen").chosen();
@@ -17,6 +17,8 @@
 
     }
     )
+    
+    
     $("#btnSubmit").click(function () {
         var id = $("#txtId").val();
         var item = $(".chosen").val();
@@ -25,6 +27,13 @@
         $(".Dialog").dialog("close");
 
 
+    })
+    $("#btnSales").click(function () {
+
+    })
+    $("#btnItems").click(function () {
+        $(".Dialog").dialog("close");
+        $("#Items").tabs("option", "active", 1);
     })
     $("#btnSale").click(function () {
 

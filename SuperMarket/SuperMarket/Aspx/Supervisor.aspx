@@ -9,7 +9,7 @@
     </title>
     <link href="../Jquery/jquery-ui.min.css" rel="stylesheet" type="text/css" />
     <link href="../Choseen/chosen.min.css" rel="stylesheet" type="text/css" />
-    <link href="../Css/StyleSheet1.css" rel="stylesheet" type="text/css" />
+    
     <script src="../Jquery/external/jquery/jquerry.js" type="text/javascript"></script>
     <script src="../Jquery/jquery-ui.min.js" type="text/javascript"></script>
     <script src="../Choseen/chosen.jquery.min.js" type="text/javascript"></script>
@@ -22,8 +22,8 @@
     </div>
     <div id="tabs">
       <ul>
-        <li><a href="#Sales">Sales</a></li>
-        <li><a href="#Items">Items</a></li>
+        <li><input type="button" class="button" id="btnSales"  value="Sales"/> </li>
+        <li><input type="button" class="button" id="btnItems"  value="Items"/> </li>
     
       </ul>
       <div id="Sales">
