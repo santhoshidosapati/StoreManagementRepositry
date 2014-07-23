@@ -2,3 +2,7 @@ C:\Users\trainee\Documents\Visual Studio 2010\Projects\SQLConnector\SQLConnector
 C:\Users\trainee\Documents\Visual Studio 2010\Projects\SQLConnector\SQLConnector\bin\Debug\SQLConnector.pdb
 C:\Users\trainee\Documents\Visual Studio 2010\Projects\SQLConnector\SQLConnector\obj\Debug\SQLConnector.dll
 C:\Users\trainee\Documents\Visual Studio 2010\Projects\SQLConnector\SQLConnector\obj\Debug\SQLConnector.pdb
+C:\Users\trainee\Documents\GitHub\Project\StoreManagementRepositry\SQLConnector\SQLConnector\bin\Debug\SQLConnector.dll
+C:\Users\trainee\Documents\GitHub\Project\StoreManagementRepositry\SQLConnector\SQLConnector\bin\Debug\SQLConnector.pdb
+C:\Users\trainee\Documents\GitHub\Project\StoreManagementRepositry\SQLConnector\SQLConnector\obj\Debug\SQLConnector.dll
+C:\Users\trainee\Documents\GitHub\Project\StoreManagementRepositry\SQLConnector\SQLConnector\obj\Debug\SQLConnector.pdb
