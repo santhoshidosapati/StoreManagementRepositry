@@ -5,3 +5,5 @@ C:\Users\trainee\Documents\Visual Studio 2010\Projects\SuperMarket\SuperMarket\b
 C:\Users\trainee\Documents\Visual Studio 2010\Projects\SuperMarket\SuperMarket\bin\SQLConnector.pdb
 C:\Users\trainee\Documents\Visual Studio 2010\Projects\SuperMarket\SuperMarket\obj\Debug\SuperMarket.dll
 C:\Users\trainee\Documents\Visual Studio 2010\Projects\SuperMarket\SuperMarket\obj\Debug\SuperMarket.pdb
+C:\Users\trainee\Documents\GitHub\Project\StoreManagementRepositry\SuperMarket\SuperMarket\obj\Debug\SuperMarket.csprojResolveAssemblyReference.cache
+C:\Users\trainee\Documents\GitHub\Project\StoreManagementRepositry\SuperMarket\SuperMarket\obj\Debug\SuperMarket.pdb
